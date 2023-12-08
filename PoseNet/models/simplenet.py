@@ -2,9 +2,10 @@ import torch
 import torch.nn as nn
 import torchvision
 
-class NewNet(torch.nn.Module):
+
+class SimpleNet(torch.nn.Module):
     def __init__(self):
-        super(NewNet, self).__init__()
+        super(SimpleNet, self).__init__()
 
         #############################################
         #############################################

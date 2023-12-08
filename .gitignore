@@ -8,8 +8,6 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
-/PoseNet/checkpoint
-
 # IPython
 profile_default/
 ipython_config.py
